@@ -1,0 +1,9 @@
+E:\Planetes\Planetes\LibreriasDLL\bin\Debug\LibreriasDLL.dll
+E:\Planetes\Planetes\LibreriasDLL\bin\Debug\LibreriasDLL.pdb
+E:\Planetes\Planetes\LibreriasDLL\obj\Debug\LibreriasDLL.dll
+E:\Planetes\Planetes\LibreriasDLL\obj\Debug\LibreriasDLL.pdb
+C:\Users\salesians\Desktop\Planetes\Planetes\LibreriasDLL\bin\Debug\LibreriasDLL.dll
+C:\Users\salesians\Desktop\Planetes\Planetes\LibreriasDLL\bin\Debug\LibreriasDLL.pdb
+C:\Users\salesians\Desktop\Planetes\Planetes\LibreriasDLL\obj\Debug\LibreriasDLL.csprojResolveAssemblyReference.cache
+C:\Users\salesians\Desktop\Planetes\Planetes\LibreriasDLL\obj\Debug\LibreriasDLL.dll
+C:\Users\salesians\Desktop\Planetes\Planetes\LibreriasDLL\obj\Debug\LibreriasDLL.pdb

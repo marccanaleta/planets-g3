@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<region>
+   <name>Colonies</name>
+   <descriptionRegion>The Colonies, so named because it was among the first areas outside the Core to be colonized, contained many of the galaxy's wealthiest worlds and prided itself on being the galaxy's economic engine. Worlds here were typically heavily populated, industrialized, and cultured, and the region was considered the meeting point of Core wealth and Rim raw materials. The Colonies, forming the tip of the Slice, came to include many of the galaxy's oldest manufacturing worlds, including Balmorra, Commenor and Neimoidia.</descriptionRegion>
+   <planets>
+      <planet>
+         <name>Devaron</name>
+         <sector>Duluur</sector>
+         <filiation>Republican</filiation>
+         <long>K54922LKP</long>
+         <lat>J81532VBT</lat>
+         <parsecs>23865</parsecs>
+         <natives>Devaronian</natives>
+         <planetImage>Devaron.png</planetImage>
+         <region>Colonies</region>
+      </planet>
+   </planets>
+</region>
+

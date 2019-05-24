@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<region>
+   <name>Expansion Region</name>
+   <descriptionRegion>The Expansion Region began as an experiment in corporate-controlled worlds, known as the Exploitation Region, with powerful corporations exploiting and profiting heavily from the planets for their raw materials, metals and ores. Inhabitants were oppressed while the corporations stripped entire stellar systems along the Corellian Run of all their resources. Expansion Region worlds continued to be producers of raw materials and ores. However, most natural resources were exhausted by the Imperial Period, with Gyndine, Bacrana and Cyrillia being among the few remaining viable ports </descriptionRegion>
+   <planets>
+      <planet>
+         <name>Shili</name>
+         <sector>Shili</sector>
+         <filiation>Republican</filiation>
+         <long>Y37532KCV</long>
+         <lat>D34712HDA</lat>
+         <parsecs>83420</parsecs>
+         <natives>Togruta</natives>
+         <planetImage>Shili.jpg</planetImage>
+         <region>Expansion Region</region>
+      </planet>
+      <planet>
+         <name>Gyndine</name>
+         <sector>Gyndine</sector>
+         <filiation>Neutral</filiation>
+         <long>X38129KFM</long>
+         <lat>G88519MYR</lat>
+         <parsecs>85382</parsecs>
+         <natives>Humans</natives>
+         <planetImage>Gyndine.jpg</planetImage>
+         <region>Expansion Region</region>
+      </planet>
+   </planets>
+</region>
+

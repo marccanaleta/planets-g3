@@ -1,0 +1,30 @@
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.adri_rojo.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.marc_canaleta.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\Planetes - G3.csproj.GenerateResource.Cache
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.alberto_muñoz.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\Planetes - G3.csprojResolveAssemblyReference.cache
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\Planetes - G3.csprojAssemblyReference.cache
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.adri_rojo.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.alberto_muñoz.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.edu_martinez.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Form1.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.marc_canaleta.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\Planetes - G3.csproj.GenerateResource.cache
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\Planetes - G3.csproj.CoreCompileInputs.cache
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.edu_martinez.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.p_planetes.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.p_regiones.resources

@@ -1,0 +1,14 @@
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\Planetes.exe.config
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.exe
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.pdb
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.csprojResolveAssemblyReference.cache
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.Form1.resources
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.Form2.resources
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.Form3.resources
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.Properties.Resources.resources
+C:\Users\salesians\Desktop\Planetes\Planetes\obj\Debug\Planetes.csproj.GenerateResource.Cache
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\Planetes.exe
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\Planetes.pdb
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\LibreriasDLL.dll
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\SdSData.dll
+C:\Users\salesians\Desktop\Planetes\Planetes\bin\Debug\LibreriasDLL.pdb

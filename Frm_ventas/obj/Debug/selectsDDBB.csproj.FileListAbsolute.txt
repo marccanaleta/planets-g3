@@ -1,0 +1,45 @@
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.Properties.Resources.resources
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.GenerateResource.cache
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.exe.config
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.exe
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.pdb
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csprojAssemblyReference.cache
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.Form1.resources
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.Properties.Resources.resources
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.GenerateResource.cache
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CoreCompileInputs.cache
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CopyComplete
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.exe
+F:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.pdb
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csprojResolveAssemblyReference.cache
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.Properties.Resources.resources
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.GenerateResource.Cache
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.p_ventas.resources
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\SdSData.dll
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB_v2.dll.config
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB_v2.dll
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB_v2.pdb
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB_v2.dll
+G:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB_v2.pdb
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csprojAssemblyReference.cache
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.p_ventas.resources
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CoreCompileInputs.cache
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CopyComplete
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.dll.config
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.dll
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.pdb
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.dll
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.pdb
+E:\Projecte portable selects\selectsDDBB\selectsDDBB\bin\Debug\SdSData.dll
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.dll.config
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.dll
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\bin\Debug\selectsDDBB.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\bin\Debug\SdSData.dll
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csprojAssemblyReference.cache
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.p_ventas.resources
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.Properties.Resources.resources
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.GenerateResource.cache
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CoreCompileInputs.cache
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.csproj.CopyComplete
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.dll
+C:\Users\IDE\Desktop\testing_xml_forms\selectsDDBB\selectsDDBB\obj\Debug\selectsDDBB.pdb

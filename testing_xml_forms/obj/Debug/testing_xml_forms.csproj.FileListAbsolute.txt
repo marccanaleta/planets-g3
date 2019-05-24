@@ -1,0 +1,90 @@
+C:\Users\s1am15\AppData\Local\Temporary Projects\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csprojResolveAssemblyReference.cache
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Form1.resources
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.GenerateResource.Cache
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+C:\Users\s1am15\Documents\Visual Studio 2012\Projects\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Form2.resources
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Form1.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Form2.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.GenerateResource.Cache
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+E:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+E:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csprojResolveAssemblyReference.cache
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.GenerateResource.Cache
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.marc_canaleta.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.adri_rojo.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.alberto_muñoz.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.edu_martinez.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.p_planetes.resources
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.p_regiones.resources
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\SdSData.dll
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\selectsDDBB_v2.dll
+F:\testing_xml_forms\testing_xml_forms\bin\Debug\selectsDDBB_v2.pdb
+F:\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csprojResolveAssemblyReference.cache
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csprojAssemblyReference.cache
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.adri_rojo.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.alberto_muñoz.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.edu_martinez.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.marc_canaleta.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.GenerateResource.cache
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.CoreCompileInputs.cache
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.CopyComplete
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_dadesPlanetes.dll
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_ventas.dll
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_xmlRegions.dll
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\LibreriasDLL.dll
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_dadesPlanetes.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_dadesPlanetes.dll.config
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_xmlRegions.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_xmlRegions.dll.config
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_ventas.pdb
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_ventas.dll.config
+C:\Users\IDE\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\LibreriasDLL.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe.config
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.exe
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csprojResolveAssemblyReference.cache
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.adri_rojo.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.alberto_muñoz.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.edu_martinez.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.marc_canaleta.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.MDIPrincipal.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.Properties.Resources.resources
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\obj\Debug\testing_xml_forms.csproj.GenerateResource.Cache
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.exe
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\testing_xml_forms.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_crystal.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_dadesPlanetes.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_ventas.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_xmlRegions.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\SdSData.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\LibreriasDLL.dll
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_crystal.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_dadesPlanetes.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\Frm_ventas.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\frm_xmlRegions.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\testing_xml_forms\bin\Debug\LibreriasDLL.pdb

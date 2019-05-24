@@ -1,0 +1,14 @@
+C:\Users\IDE\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.csprojAssemblyReference.cache
+C:\Users\IDE\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Crystal.frm_crystal.resources
+C:\Users\IDE\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.Properties.Resources.resources
+C:\Users\IDE\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.csproj.GenerateResource.cache
+C:\Users\IDE\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.csproj.CoreCompileInputs.cache
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.Properties.Resources.resources
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.csproj.GenerateResource.Cache
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.frm_crystal.resources
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\bin\Debug\Frm_crystal.dll.config
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\bin\Debug\Frm_crystal.dll
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\bin\Debug\Frm_crystal.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.dll
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.pdb
+C:\Users\salesians\Desktop\testing_xml_forms\Frm_crystal\obj\Debug\Frm_crystal.csprojResolveAssemblyReference.cache
